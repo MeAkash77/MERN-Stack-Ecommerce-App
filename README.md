@@ -108,12 +108,6 @@ The backend server is deployed on Render and can be accessed at the following UR
     <img src="docs/order-ui.png" alt="Fusion Electronics Order Success Page" style="border-radius: 10px" width="100%"/>
 </p>
 
-### Footer
-
-<p align="center">
-    <img src="docs/footer.png" alt="Fusion Electronics Footer" style="border-radius: 10px" width="100%"/>
-</p>
-
 ## Features
 
 - **Product Management:**
@@ -381,16 +375,6 @@ Contributions to this project are welcome! Here are some ways you can contribute
 - Report bugs and request features by opening issues.
 - Implement new features or enhancements and submit pull requests.
 - Improve documentation and README files.
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## Creator
-
-- **Son Nguyen** - [hoangsonww](https://github.com/hoangsonww)
-- **Email:** [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
-
 ---
 
 Thank you for exploring **Fusion Electronics - a MERN Stack E-commerce Application**! If you have any questions or feedback, feel free to reach out or open an issue.
