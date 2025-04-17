@@ -32,12 +32,6 @@ Welcome to **Fusion Electronics**, a **MERN-Stack E-commerce Application**! This
 
 This project is a demonstration of building an e-commerce application using the MERN stack, which consists of MongoDB (database), Express.js (server), React.js (frontend), and Node.js (runtime environment). The application allows users to browse products, add them to a shopping cart, proceed to checkout, and simulate the order processing. It includes basic validations for user inputs and simulates the checkout process on the backend.
 
-## Live Deployment
-
-The application is deployed live on Vercel. You can access it at the following URL: [Fusion Electronics](https://fusion-ecommerce-app.vercel.app).
-
-The backend server is deployed on Render and can be accessed at the following URL: [Fusion Electronics API](https://mern-stack-ecommerce-app-h5wb.onrender.com/).
-
 > **Note**: The backend server may take a few seconds to wake up if it has been inactive for a while. For your information, it is hosted on the free tier of Render, with 0.1 CPU and 512 MB of memory only, so it may take a bit longer to respond to requests, especially after periods of inactivity.
 
 ## User Interface
